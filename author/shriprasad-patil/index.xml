@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shriprasad Patil | Academic</title>
+    <link>https://academic-demo.netlify.app/author/shriprasad-patil/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/shriprasad-patil/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shriprasad Patil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://academic-demo.netlify.app/author/shriprasad-patil/avatar_huedd27ebad864517a49e8a50c8a4d33ef_604345_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shriprasad Patil</title>
+      <link>https://academic-demo.netlify.app/author/shriprasad-patil/</link>
+    </image>
+    
+  </channel>
+</rss>
